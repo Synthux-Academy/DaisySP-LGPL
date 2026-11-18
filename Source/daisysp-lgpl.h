@@ -13,6 +13,7 @@
 #include "Effects/bitcrush.h"
 #include "Effects/fold.h"
 #include "Effects/reverbsc.h"
+#include "Effects/reverbsclofi.h"
 
 /** Filter Modules */
 #include "Filters/allpass.h"

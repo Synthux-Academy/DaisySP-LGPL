@@ -20,6 +20,7 @@ EFFECTS_MODULES = \
 bitcrush \
 fold \
 reverbsc \
+reverbsclofi \
 
 FILTER_MOD_DIR = Filters
 FILTER_MODULES = \

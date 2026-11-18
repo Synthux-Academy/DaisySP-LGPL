@@ -9,6 +9,7 @@ Source/Dynamics/compressor.cpp
 Source/Effects/bitcrush.cpp
 Source/Effects/fold.cpp
 Source/Effects/reverbsc.cpp
+Source/Effects/reverbsclofi.cpp
 Source/Filters/allpass.cpp
 Source/Filters/atone.cpp
 Source/Filters/biquad.cpp
